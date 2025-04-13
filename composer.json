@@ -33,7 +33,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Nwidart\\Modules\\Tests\\": "tests",
+            "Digkill\\Modules\\Tests\\": "tests",
             "Modules\\Recipe\\": "tests/stubs/valid/Recipe"
         }
     },
