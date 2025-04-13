@@ -1,6 +1,7 @@
 {
-    "name": "crater-invoice/modules",
-    "description": "Crater Module Management Package",
+    "name": "digkill/modules",
+    "type": "library",
+    "description": "Module Management Package",
     "keywords": [
         "modules",
         "laravel",
